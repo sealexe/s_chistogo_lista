@@ -8,9 +8,9 @@
 }
 
 @font-face {
-    src: url(fonts/interbold.woff2) format('woff2'),
-            url(fonts/interbold.woff) format('woff'),
-            url(fonts/interbold.ttf) format('ttf');
+    src: url(/fonts/interbold.woff2) format('woff2'),
+            url(/fonts/interbold.woff) format('woff'),
+            url(/fonts/interbold.ttf) format('ttf');
     font-family: 'Inter';
     font-weight: 700;
 }
